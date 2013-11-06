@@ -48,12 +48,6 @@
 			<version>${rewrite.version}</version>
 		</dependency>
 
-		<!-- Transformation API -->
-		<!-- <dependency> <groupId>org.ocpsoft.rewrite</groupId> <artifactId>rewrite-transform-minify</artifactId> 
-			<version>${rewrite.version}</version> </dependency> <dependency> <groupId>org.ocpsoft.rewrite</groupId> 
-			<artifactId>rewrite-transform-markup</artifactId> <version>${rewrite.version}</version> 
-			</dependency> -->
-
 	</dependencies>
 
 	<build>
